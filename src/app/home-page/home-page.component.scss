@@ -1,0 +1,28 @@
+.home {
+    background: url('src/assets/img/spices.png') no-repeat;
+    background-size: cover;
+    opacity: 0.5;
+    background-position: center center;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+
+    .searchText {
+        text-align: center;
+        color: white;
+        font-size: 150px;
+        margin-top: 55px;
+        margin-bottom: 12px;
+    }
+
+    .form-control {
+        padding: 20px;
+        font-size: 25px;
+        width: 120%;
+    }
+
+    .searchBar {
+        max-width:750px;
+        margin-left: 150px;
+    }
+}
